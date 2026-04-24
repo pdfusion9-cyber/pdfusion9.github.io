@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://pdfusion9-cyber.github.io/pdfusion9.github.io/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
